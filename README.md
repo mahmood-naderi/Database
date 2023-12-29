@@ -26,10 +26,10 @@ export PATH
 ### Windows
 Follow the path: 
 > This PC -> properties -> Advanced System Settings -> Environment Variables -> PATH -> Edit
+
 and then add the following lines:
 >  ;C:\PostgreSQL\16\bin; C:\PostgreSQL\16\lib
 
->
 Add following directories to the PATH.
 
 
@@ -46,6 +46,8 @@ In my case command was:
 
 
 Here is the ERD diagram I used to understand the structure of the database:
+
+![ERD](./demodb-bookings-schema.svg)
 
 Here are some commands for psql:
 \l (or \list): List all databases.

@@ -1,0 +1,11 @@
+ airport_code |         airport_name          |        city        |      timezone      |              coordinates
+--------------+-------------------------------+--------------------+--------------------+----------------------------------------
+ KHV          | Khabarovsk-Novy Airport       | Khabarovsk         | Asia/Vladivostok   | (135.18800354004,48.52799987793)
+ KEJ          | Kemerovo Airport              | Kemorovo           | Asia/Novokuznetsk  | (86.1072006225586,55.27009963989258)
+ KGP          | Kogalym International Airport | Kogalym            | Asia/Yekaterinburg | (74.53379821777344,62.190399169921875)
+ KJA          | Yemelyanovo Airport           | Krasnoyarsk        | Asia/Krasnoyarsk   | (92.493301391602,56.172901153564)
+ KXK          | Komsomolsk-on-Amur Airport    | Komsomolsk-on-Amur | Asia/Vladivostok   | (136.9340057373047,50.409000396728516)
+ KYZ          | Kyzyl Airport                 | Kyzyl              | Asia/Krasnoyarsk   | (94.40059661865234,51.66939926147461)
+ HMA          | Khanty Mansiysk Airport       | Khanty-Mansiysk    | Asia/Yekaterinburg | (69.08609771728516,61.028499603271484)
+ KRO          | Kurgan Airport                | Kurgan             | Asia/Yekaterinburg | (65.41560363769531,55.47529983520508)
+(8 rows)

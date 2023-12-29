@@ -1,0 +1,12 @@
+ aircraft_code |    flight_range
+---------------+--------------------
+ 773           | high range
+ 763           | high range
+ 321           | intermediate range
+ 320           | intermediate range
+ 319           | intermediate range
+ 733           | intermediate range
+ CR2           | low range
+ SU9           | low range
+ CN1           | low range
+(9 rows)

@@ -1,0 +1,5 @@
+ count |   city
+-------+-----------
+     2 | Ulyanovsk
+     3 | Moscow
+(2 rows)
